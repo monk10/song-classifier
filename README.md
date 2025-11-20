@@ -48,8 +48,7 @@ Extracts 53 audio features including:
 - **RMS Energy** - Audio power
 
 ### Modern QML Interface
-- Beautiful Material Design UI
-- Smooth animations and transitions
+- Material Design UI
 - Progress indicators
 - Real-time status updates
 - Visual probability bars for all genres
