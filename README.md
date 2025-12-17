@@ -1,1 +1,1 @@
-# tech_scripts
+hello, world of techies.
